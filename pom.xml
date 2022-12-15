@@ -21,8 +21,8 @@
 
 <distributionManagement>
         <repository>
-                <id>Sidgsrelease</id>
-                <url>http://54.221.191.23:8081/repository/Sidgsrelease/</url>
+                <id>sre-release</id>
+                <url>http://34.207.238.22:8081/repository/sre-release/</url>
                 <layout>default</layout>
             <releases>
                 <enabled>true</enabled>
