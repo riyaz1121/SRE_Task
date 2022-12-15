@@ -29,9 +29,9 @@ node{
                         ],
                                 credentialsId: 'nexus3',
                                 groupId: 'in.ravi',
-                                nexusUrl: 'http://54.221.191.23:8081/repository/Sidgsrelease/',
+                                nexusUrl: 'http://34.207.238.22:8081/repository/sre-release/',
                                 nexusVersion: 'nexus3',
-                                repository: 'Sidgsrelease/',
+                                repository: 'sre-release/',
                                 protocol: 'http',
                                 version: '2.0.0'
                         }
